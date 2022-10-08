@@ -1,0 +1,177 @@
+.image1 {
+    border-radius: 2px;
+    padding: 5px;
+    width: 325px;
+    position: relative;
+    right: 15px;
+    top: 12px;
+    bottom: 12px;
+    float: right;
+}
+
+.title-container {
+    height: 200px;
+    width: 1173px;
+    background: #ffe598;
+    justify-content: space-between;
+    border-color: black;
+    border-width: 5px;
+    border-style: solid;
+}
+
+    .pirmas {
+        font-size: x-large;
+        right: 15px;
+        position: relative;
+        left: 15px;
+        top: -20px;
+    }
+
+    .antras {
+        color: #4D4D4D;
+        font-size: x-large;
+        position: relative;
+        left: 15px;
+        top: -27px;
+    }
+
+    .trecias {
+        color: #4D4D4D;
+        font-size: x-large;
+        position: relative;
+        left: 15px;
+        top: -20px;
+    }
+
+    .ketvirtas {
+        color: #4D4D4D;
+        font-size: x-large;
+        position: relative;
+        left: 15px;
+        top: -8px;
+    }
+
+.box-container {
+    justify-content: space-between;
+    height: 200px;
+    width: 1173px;
+    color: black;
+    position: relative;
+    top: 35px;
+    display: flex;
+    align-items: stretch;
+}
+
+.box {
+    height: 20px;
+    text-transform: uppercase;
+    text-align: center;
+    padding: 15px 35px 0;
+    border: black;
+}
+
+.header {
+    font-size: 28px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.body {
+    font-size: 15px;
+    width: 125px;
+}
+
+.service-header {
+    font-size: 28px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.menu-container {
+    height: 60px;
+    width: 1173px;
+    background: #ffe598;
+    color: #4D4D4D;
+    font-size: x-large;
+    position: relative;
+    font-weight: bold;
+    border-color: black;
+    border-width: 5px;
+    border-style: solid;
+}
+
+.image2 {
+    height: 100px;
+    width: 100px;
+}
+
+.grey-container {
+    justify-content: space-between;
+    height: 675px;
+    width: 1180px;
+    background: lightgrey;
+    color: #4D4D4D;
+    font-size: x-large;
+    position: relative;
+    display: flex;
+    align-items: stretch;
+    font-weight: bold;
+    border-color: black;
+    border-width: 1px;
+    border-style: solid;
+}
+
+.customer-box {
+    width: 300px;
+    border: 5px solid #FCC53E;
+    background: #FCC53E;
+    padding: 50px;
+    margin: 20px;
+    color: black;
+    justify-content: space-between;
+}
+
+.check {
+    width: 100px;
+    height: 100px;
+}
+
+.dev {
+    width: 100px;
+    height: 100px;
+}
+
+.dgn {
+    width: 100px;
+    height: 100px;
+}
+
+.grey-container2 {
+    justify-content: space-between;
+    height: 225px;
+    width: 1180px;
+    background: lightgrey;
+    color: #4D4D4D;
+    font-size: x-large;
+    position: relative;
+    display: flex;
+    align-items: stretch;
+    font-weight: bold;
+    border-color: black;
+    border-width: 1px;
+    border-style: solid;
+}
+
+.penktas {
+    position: relative;
+    left: 22px;
+    top: 12px;
+}
+
+.kovas {
+    width: 250px;
+    height: 200px;
+    position: relative;
+    left: 890px;
+    bottom: 188px;
+}
